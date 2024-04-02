@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Basitrajput1511
+- 👋 Hi, I’m Abdul Basit Rajput
 - 👀 I’m interested in Web Development
 - 🌱 I’m currently learning react.js
 - 💞️ I’m looking to collaborate on 
