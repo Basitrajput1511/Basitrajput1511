@@ -2,7 +2,7 @@
 - 👀 I’m interested in Web Development
 - 🌱 I’m currently learning react.js
 - 💞️ I’m looking to collaborate on 
-- 📫 How to reach me Basitrajput1511@gnail.com
+- 📫 How to reach me Basitrajput1511@gmail.com
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
